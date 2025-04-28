@@ -57,6 +57,8 @@
 	--dark-divider-color	: #FFFFFF24;
 	--error-color			: rgb(230, 87, 87);
 	--default-font			: "DM Sans", sans-serif;
+	--body-bg-color			: #F5EDDC;
+	--service-bg-color		: #E7F5E6;
 }
 
 /************************************/
@@ -68,7 +70,7 @@ body{
 	font-size: 16px;
 	font-weight: 400;
 	line-height: 1.6em;
-	background: var(--white-color);
+	background: var(--body-bg-color);
 	color: var(--text-color);
 }
 
@@ -302,7 +304,7 @@ body{
 }
 
 .bg-section{
-	background-color: var(--secondary-color);
+	background-color: var(--service-bg-color);
 	width: 100%;
 	max-width: 1820px;
 	margin: 0 auto;
