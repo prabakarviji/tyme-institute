@@ -56,7 +56,7 @@
 	--error-color			: rgb(230, 87, 87);
 	--default-font			: "DM Sans", sans-serif;
 	--body-bg-color			: #F5EDDC;
-	--service-bg-color		: #E7F5E6;
+	--service-bg-color		: #D1D5CD;
 }
 
 /************************************/
@@ -383,7 +383,7 @@ body{
 	font-weight: 600;
 	line-height: 1.1em;
 	letter-spacing: -0.02em;
-	color: var(--primary-color);
+	color: #C07A57;
 	margin-bottom: 0;
 	cursor: none;
 }

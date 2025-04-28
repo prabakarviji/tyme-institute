@@ -58,7 +58,7 @@
 	--error-color			: rgb(230, 87, 87);
 	--default-font			: "DM Sans", sans-serif;
 	--body-bg-color			: #F5EDDC;
-	--service-bg-color		: #E7F5E6;
+	--service-bg-color		: #D1D5CD;
 }
 
 /************************************/
@@ -381,18 +381,18 @@ body{
 
 .section-title h2{
 	font-size: 46px;
-	margin-left: 50px;
+	/* margin-left: 50px; */
 	font-weight: 600;
 	line-height: 1.1em;
 	letter-spacing: -0.02em;
-	color: var(--primary-color);
+	color: #C07A57;
 	margin-bottom: 0;
 	cursor: none;
 }
 
 .section-title p{
 	margin-top: 20px;
-	margin-left: 50px;
+	/* margin-left: 50px; */
 	margin-bottom: 0;
 }
 
@@ -1665,6 +1665,7 @@ header.main-header .header-sticky.active{
 	text-transform: capitalize;
 	color: var(--white-color);
 	margin-bottom: 10px;
+	margin-top: 15px;
 }
 
 .why-choose-item-content p{
