@@ -345,7 +345,6 @@ body{
 .section-title h3{
 	position: relative;
 	display: inline-block;
-		margin-left: 50px;
 	font-size: 16px;
     font-weight: 500;
 	line-height: 1.4em;
@@ -2912,15 +2911,28 @@ header.main-header .header-sticky.active{
 /***    17. About Us Page css  	  ***/
 /************************************/
 
+.about-us.page-header.bg-section {
+    position: relative;
+    background-color: var(--secondary-color);
+    background-image: url('../images/about_us_first.jpg');
+    height: 60vh;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100% auto;
+    padding: 125px 0;
+    overflow: hidden;
+}
+
 .page-header{
 	position: relative;
 	background-color: var(--secondary-color);
-	background-image: url('../images/page-header-bg.png');
+	background-image: url('../images/contact_us_banner.jpeg');
 	background-repeat: no-repeat;
-	background-position: bottom center;
+	background-position: top center;
 	background-size: 100% auto;
 	padding: 125px 0;
 	overflow: hidden;
+	height: 60vh;
 }
 
 .page-header-box{
