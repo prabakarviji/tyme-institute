@@ -1251,6 +1251,11 @@ header.main-header .header-sticky.active{
 	padding: 0 140px;
 }
 
+.about-us-images.section{
+	position: relative;
+	padding: 0px;
+}
+
 .about-img-1 img{
 	width: 100%;
 	border-radius: 46px;
@@ -2973,7 +2978,7 @@ header.main-header .header-sticky.active{
 }
 
 .our-approach{
-	background-image: url('../images/section-bg-img-1.png');
+	/* background-image: url('../images/section-bg-img-1.png'); */
     background-repeat: no-repeat;
     background-position: bottom right;
     background-size: auto;
