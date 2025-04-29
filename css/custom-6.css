@@ -1504,6 +1504,7 @@ header.main-header .header-sticky.active{
 	max-width: 630px;
 	text-align: center;
 	margin: 0 auto;
+	color: #C07A57;
 	margin-top: 20px;
 }
 
@@ -1669,7 +1670,7 @@ header.main-header .header-sticky.active{
 	text-transform: capitalize;
 	color: var(--white-color);
 	margin-bottom: 10px;
-	margin-top: 15px;
+	margin-top: 0px;
 }
 
 .why-choose-item-content p{
@@ -2931,7 +2932,7 @@ header.main-header .header-sticky.active{
 .page-header{
 	position: relative;
 	background-color: var(--secondary-color);
-	background-image: url('../images/contact_us_banner.jpeg');
+	background-image: url('../images/contact_us_banner.jpg');
 	background-repeat: no-repeat;
 	background-position: top center;
 	background-size: 100% auto;
