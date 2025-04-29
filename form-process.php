@@ -33,7 +33,7 @@
 	$subject = 'Contact Inquiry from Physiocare Website';
 
 	//$EmailTo = "info@yourdomain.com"; // Replace with your email.
-    $EmailTo = "awaikentechnology@gmail.com";
+    $EmailTo = "ajithkumar.ps@spritle.com";
     
 	// prepare email body text
 	$Body = "";
