@@ -1504,6 +1504,7 @@ header.main-header .header-sticky.active{
 	max-width: 630px;
 	text-align: center;
 	margin: 0 auto;
+	color: #C07A57;
 	margin-top: 20px;
 }
 
@@ -1669,7 +1670,7 @@ header.main-header .header-sticky.active{
 	text-transform: capitalize;
 	color: var(--white-color);
 	margin-bottom: 10px;
-	margin-top: 15px;
+	margin-top: 0px;
 }
 
 .why-choose-item-content p{
