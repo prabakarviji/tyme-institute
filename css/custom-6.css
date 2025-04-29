@@ -2932,7 +2932,7 @@ header.main-header .header-sticky.active{
 .page-header{
 	position: relative;
 	background-color: var(--secondary-color);
-	background-image: url('../images/contact_us_banner.jpeg');
+	background-image: url('../images/contact_us_banner.jpg');
 	background-repeat: no-repeat;
 	background-position: top center;
 	background-size: 100% auto;
